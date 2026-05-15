@@ -1,4 +1,4 @@
-import imagenFondo from '../assets/Cimg1.webp'; 
+import imagenFondo from '/Cimg1.webp'; 
 
 const Hero = () => {
   return (
