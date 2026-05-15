@@ -77,7 +77,7 @@ export default function Mensajes() {
           <input
             name="nombre"
             placeholder="Ej. Juan Pérez"
-            className="input input-bordered input-primary w-full focus:ring-2 focus:ring-sky-500 bg-gray-50"
+            className="input input-bordered input-primary w-full focus:ring-2 focus:ring-sky-500 bg-gray-50 text-black"
             value={form.nombre}
             onChange={handleChange}
             required
@@ -93,7 +93,7 @@ export default function Mensajes() {
             name="email"
             type="email"
             placeholder="correo@ejemplo.com"
-            className="input input-bordered input-primary w-full bg-gray-50"
+            className="input input-bordered input-primary w-full bg-gray-50 text-black"
             value={form.email}
             onChange={handleChange}
             required
@@ -108,7 +108,7 @@ export default function Mensajes() {
           <textarea
             name="mensaje"
             placeholder="Cuéntanos en qué podemos ayudarte..."
-            className="textarea textarea-bordered textarea-primary h-32 text-base bg-gray-50"
+            className="textarea textarea-bordered textarea-primary h-32 text-base bg-gray-50 text-black"
             value={form.mensaje}
             onChange={handleChange}
             required
