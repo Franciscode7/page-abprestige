@@ -133,7 +133,7 @@ export default async function handler(req, res) {
     // 📩 1️⃣ Correo al dueño del sitio
     await resend.emails.send({
       from: "Mensaje nuevo del sitio <contacto@contacto.pacodev.online>",
-      to: "francisco99za@gmail.com",
+      to: "techuser.user.01@gmail.com",
       subject: "Nuevo mensaje desde el formulario de contacto",
       html: `
         <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto; border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
