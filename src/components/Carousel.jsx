@@ -1,12 +1,12 @@
 
 
 // Supongamos que tienes estas 3 imágenes en assets
-import img1 from '/Cimg1.webp';
-import img2 from '../assets/Cimg2.webp';
-import img3 from '../assets/Cimg3.webp';
-import img4 from '../assets/Cimg4.webp';
-import img5 from '../assets/Cimg5.webp';
-import img6 from '../assets/Cimg6.webp';
+import img1 from './images/Cimg1.webp';
+import img2 from './images/Cimg2.webp';
+import img3 from './images/Cimg3.webp';
+import img4 from './images/Cimg4.webp';
+import img5 from './images/Cimg5.webp';
+import img6 from './images/Cimg6.webp';
 import React, { useRef } from 'react';
 
 const Carousel = () => {

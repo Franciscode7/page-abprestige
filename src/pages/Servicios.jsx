@@ -4,37 +4,37 @@ import React from 'react';
 const detailedServices = [
   {
     title: "Construction Cleaning",
-    img: "./Cimg1.webp",
+    img: "./images/Cimg1.webp",
     description: "Limpieza profunda tras finalizar obras o remodelaciones, garantizando que el espacio esté listo para habitar.",
     points: ["Remoción de polvo fino en techos y paredes", "Limpieza de marcos y cristales", "Eliminación de restos de pintura y adhesivos", "Aspirado industrial de escombros"]
   },
   {
     title: "Janitorial Services",
-    img: "./src/assets/Cimg2.webp",
+    img: "./images/Cimg2.webp",
     description: "Servicio recurrente basado en confianza para mantener oficinas y edificios comerciales impecables.",
     points: ["Limpieza de estaciones de trabajo", "Gestión de residuos y reciclaje", "Desinfección de baños y áreas comunes", "Reposición de insumos sanitarios"]
   },
   {
     title: "Pressure Washing",
-    img: "./src/assets/Cimg3.webp",
+    img: "./images/Cimg3.webp",
     description: "Uso de agua a alta presión para restaurar superficies exteriores y eliminar suciedad difícil.",
     points: ["Lavado de fachadas y paredes", "Limpieza de parkings y aceras", "Remoción de moho y manchas de aceite", "Tratamiento de áreas de piscina"]
   },
   {
     title: "Tile and Grout",
-    img: "./src/assets/Cimg4.webp",
+    img: "./images/Cimg4.webp",
     description: "Restauración de pisos cerámicos y juntas para devolverles su brillo y color original.",
     points: ["Tallado profundo de juntas (grout)", "Sellado protector antimanchas", "Tratamiento de baldosas cerámicas", "Eliminación de sarro y grasa"]
   },
   {
     title: "Stripping and Waxing",
-    img: "./src/assets/Cimg5.webp",
+    img: "./images/Cimg5.webp",
     description: "Cuidado especializado para pisos de vinilo, madera o cemento que requieren brillo espejo.",
     points: ["Remoción de capas de cera vieja", "Aplicación de selladores premium", "Pulido de alta velocidad", "Capas de cera antideslizante"]
   },
   {
     title: "Carpet Cleaning",
-    img: "./src/assets/Cimg6.webp",
+    img: "./images/Cimg6.webp",
     description: "Tratamiento profundo para alfombras que elimina manchas, olores y alérgenos.",
     points: ["Lavado con vapor a alta temperatura", "Extracción de suciedad profunda", "Tratamiento especial para manchas", "Neutralización de olores de mascotas"]
   }
